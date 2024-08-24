@@ -2,7 +2,7 @@
 <b>java-design-patterns-run</b> is the collection of runtime views of java design patterns from [java-design-patterns](https://github.com/iluwatar/java-design-patterns): you can view a java design pattern's runtime code flow of one of its debugging process in HTML pages (one dubugging step per page and each dubugging step is available) at [RuntimeHub.com](https://RuntimeHub.com/en/index.html#JavaDesignPatterns), here is a screenshot of one of the HTML pages of the [reader-writer-lock](https://github.com/RuntimeHub-com/java-design-patterns-run/reader-writer-lock/) design pattern:
 ![RuntimeHub.com:JDP@20240509:reader-writer-lock](screenshot.RuntimeHub.com.jpg)
 
-The complete code flow of [reader-writer-lock](https://github.com/RuntimeHub-com/java-design-patterns-run/reader-writer-lock/) starts [here](https://RuntimeHub.com/p/JDP@20240509:reader-writer-lock/), just enjoy it:)
+The complete code flow of [reader-writer-lock](https://github.com/RuntimeHub-com/java-design-patterns-run/tree/main/reader-writer-lock) starts [here](https://RuntimeHub.com/p/JDP@20240509:reader-writer-lock/), just enjoy it:)
 
 # About the website: [RuntimeHub.com](https://RuntimeHub.com/)
 As the phenomenon of open-source software becomes more prevalent, open-source software is now ubiquitous. Initially, it was common for programmers to develop software from scratch, but now it is more common to build new software based on an increasing amount of rich open-source software.<br>
